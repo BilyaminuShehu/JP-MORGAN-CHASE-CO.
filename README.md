@@ -1,2 +1,2 @@
-# JP-MORGAN-CHASE-CO.
-J.P. Morgan Cybersecurity Virtual Experience Program.
+# JPMorganCS
+J.P. Morgan Cybersecurity Virtual Experience Program
